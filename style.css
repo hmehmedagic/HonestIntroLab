@@ -59,3 +59,47 @@
     font-size: 1.2rem;
     cursor: pointer;
 }
+
+.navBar2 {
+    border: solid white;
+    background-color: white;
+    display: flex;
+    /* padding: 5px; */
+    justify-content: center;
+}
+
+.subs {
+    margin: 1%;
+}
+
+.babyDiapers {
+    margin: 1%;
+}
+
+.wipes {
+    margin: 1%;
+}
+
+.bathBody {
+    margin: 1%;
+}
+
+.skincare {
+    margin: 1%;
+}
+
+.makeup {
+    margin: 1%;
+}
+
+.babyClothes {
+    margin: 1%;
+}
+
+.cleaning {
+    margin: 1%;
+}
+
+.giftsKits {
+    margin: 1%;
+}
